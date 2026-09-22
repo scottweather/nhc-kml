@@ -56,14 +56,14 @@
 </Style>
 
 <Placemark>
-    <name>7-Day Formation Chance: 30%</name>
+    <name>7-Day Formation Chance: 40%</name>
     <description>
-        2-Day Probability: 0%
+        2-Day Probability: 20%
         2-Day Risk: Low
-        7-Day Probability: 30%
-        7-Day Risk: Low
+        7-Day Probability: 40%
+        7-Day Risk: Medium
     </description>
-    <styleUrl>#low</styleUrl>
+    <styleUrl>#medium</styleUrl>
     <Polygon>
         <outerBoundaryIs>
             <LinearRing>
@@ -72,6 +72,20 @@
         </outerBoundaryIs>
 
     </Polygon>
+</Placemark>
+
+<Placemark>
+    <name>Disturbance — 40%</name>
+    <description>
+        2-Day Probability: 20%
+        2-Day Risk: Low
+        7-Day Probability: 40%
+        7-Day Risk: Medium
+    </description>
+    <styleUrl>#medium</styleUrl>
+    <Point>
+        <coordinates>-13.191631889799737,9.766024998355135,0</coordinates>
+    </Point>
 </Placemark>
 
 </Document>
