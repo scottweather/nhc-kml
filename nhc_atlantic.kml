@@ -56,11 +56,11 @@
 </Style>
 
 <Placemark>
-    <name>7-Day Formation Chance: 50%</name>
+    <name>7-Day Formation Chance: 60%</name>
     <description>
         2-Day Probability: 0%
         2-Day Risk: Low
-        7-Day Probability: 50%
+        7-Day Probability: 60%
         7-Day Risk: Medium
     </description>
     <styleUrl>#medium</styleUrl>
